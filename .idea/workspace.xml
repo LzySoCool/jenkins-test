@@ -158,13 +158,18 @@
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -248,7 +253,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="eureka项目创建" />
-    <option name="LAST_COMMIT_MESSAGE" value="eureka项目创建" />
+    <MESSAGE value="jenkins测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="jenkins测试" />
   </component>
   <component name="WindowStateProjectService">
     <state x="65" y="0" width="1215" height="680" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576659052669">
@@ -307,6 +313,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="230" y="117" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1576722621467" />
+    <state x="321" y="0" key="git4idea.branch.GitSmartOperationDialog" timestamp="1576754527381">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="321" y="0" key="git4idea.branch.GitSmartOperationDialog/0.0.1280.680@0.0.1280.680" timestamp="1576754527381" />
     <state x="223" y="82" key="git4idea.merge.GitPullDialog" timestamp="1576643948893">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
